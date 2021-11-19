@@ -1,0 +1,23 @@
+h1 {
+ font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 20px;
+ font-style: normal; font-variant: normal; font-weight: 700; line-height: 1.1px;
+    }
+h3 {
+ font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 21px;
+ font-style: normal; font-variant: normal; font-weight: 700; line-height: 23.1px;
+   }
+p {
+ font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px;
+ font-style: italic; font-variant: normal; font-weight: 400;
+ line-height: 18.2px;
+  }
+blockquote {
+  font-family: Papyrus, fantasy; font-size: 21px; font-style: normal;
+  font-variant: normal; font-weight: 400; line-height: 28px; }
+pre { font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px;
+font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+td {
+ font-family: Tahoma, Verdana, Segoe, sans-serif; font-size: 14px;
+ font-style: italic; font-variant: normal; font-weight: 400;
+ line-height: 18.2px;
+  }
